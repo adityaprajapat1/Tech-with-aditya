@@ -1,0 +1,9 @@
+# Tech With Aditya - robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.techwithaditya.com/sitemap.xml
+
+# Disallow admin or private paths if any are added later
+# Disallow: /private/
